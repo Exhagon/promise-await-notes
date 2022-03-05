@@ -1,6 +1,4 @@
-# Webpack Starter
-Este es el proyecto inicial para crear 
-aplicaciones con webpack.
+# promise await notes
 ## Notas
 recuerden construir los modulos de Node
 ```
